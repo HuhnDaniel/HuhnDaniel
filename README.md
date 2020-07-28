@@ -11,10 +11,10 @@ Always learning something!
 Open to questions and conversation!
 
 ## Contact Me
-On LinkedIn: https://www.linkedin.com/in/danielmoody-huhn/
-Email me: danielphuhn@gmail.com
-Open an issue: https://github.com/HuhnDaniel/HuhnDaniel/issues
-My personal website and portfolio: https://danielmoodyhuhn.herokuapp.com/
+On LinkedIn: https://www.linkedin.com/in/danielmoody-huhn/  
+Email me: danielphuhn@gmail.com  
+Open an issue: https://github.com/HuhnDaniel/HuhnDaniel/issues  
+My personal website and portfolio: https://danielmoodyhuhn.herokuapp.com/  
 
 <!--
 **HuhnDaniel/HuhnDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
