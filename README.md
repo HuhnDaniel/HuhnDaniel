@@ -3,7 +3,8 @@ I currently work with web development technologies such as HTML, CSS, JavaScript
 Repositories are mainly practice projects, larger/more intensive projects are pinned.
 
 ## Current Project
-Reworking my personal portfolio as a react app!
+Working on a personal project to learn Angular!
+Details coming soon
 
 ## And More!
 Open to collaboration.  
