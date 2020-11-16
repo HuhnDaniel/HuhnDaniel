@@ -3,9 +3,12 @@ I currently work with web development technologies such as HTML, CSS, JavaScript
 Repositories are mainly practice projects, larger/more intensive projects are pinned.
 
 ## Current Project
-Working on Theatre of the Mind, to work on Angular and Typescript skills, as well as to make a project in the full MEAN Stack.  
+- Theatre of the Mind, to work on Angular and Typescript skills, as well as to make a project in the full MEAN Stack.  
 This will be an application designed to help with running table top role playing games, with tools such as
 initiative trackers and dice rollers.  See the repo for more information (full README coming soon).
+- Cornerstone, a SERN stack website designed to bring together people who create and people who want things created.  
+Search by discipline, name, or project to find the right person for your next project whether it be graphic desing, 
+architecture, or web development.  See the repo for more information (full README coming soon).
 
 ## And More!
 Open to collaboration.  
